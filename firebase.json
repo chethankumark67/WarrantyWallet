@@ -1,0 +1,31 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "storage": {
+    "rules": "storage.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "warrantywallet-1d409",
+          "appId": "1:678224607571:android:b3c5611dfbe74d00f489a6",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "warrantywallet-1d409",
+          "configurations": {
+            "android": "1:678224607571:android:b3c5611dfbe74d00f489a6",
+            "ios": "1:678224607571:ios:2ec396ead510ce21f489a6",
+            "macos": "1:678224607571:ios:2ec396ead510ce21f489a6",
+            "web": "1:678224607571:web:ee554336d003d2fdf489a6",
+            "windows": "1:678224607571:web:1fee4be79c7a504bf489a6"
+          }
+        }
+      }
+    }
+  }
+}

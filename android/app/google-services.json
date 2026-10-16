@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678224607571",
+    "project_id": "warrantywallet-1d409",
+    "storage_bucket": "warrantywallet-1d409.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678224607571:android:b3c5611dfbe74d00f489a6",
+        "android_client_info": {
+          "package_name": "com.example.war"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZZ6ag6eim_GHW8N7omTF5VbP714Tm0ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
